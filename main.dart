@@ -87,7 +87,7 @@ class _cvState extends State<cv> {
                 CardBoxText(
                     icon: Icons.email_outlined,
                     text: "batoolahmad002@gmail.com"),
-                CardBoxText(text: "01026558834", icon: Icons.phone),
+                CardBoxText(text: "01026678834", icon: Icons.phone),
 
           ],
         ),
